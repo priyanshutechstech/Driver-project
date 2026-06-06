@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "881705936806",
+    "firebase_url": "https://taxi-1d933-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "taxi-1d933",
+    "storage_bucket": "taxi-1d933.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881705936806:android:6e4a2f4f775f4bf9ad1167",
+        "android_client_info": {
+          "package_name": "com.techsteck.techtaxii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrGkqE82upU2JeVvkJna6SvWEfIR3qjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
